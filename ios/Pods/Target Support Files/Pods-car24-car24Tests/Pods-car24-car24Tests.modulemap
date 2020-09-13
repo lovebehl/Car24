@@ -1,0 +1,6 @@
+module Pods_car24_car24Tests {
+  umbrella header "Pods-car24-car24Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
